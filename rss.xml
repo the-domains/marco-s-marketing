@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Marco's Marketing]]></title>
+        <description><![CDATA[Marco's Marketing]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 24 Jun 2016 05:55:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Servicio excepcional. Resultados exepcionales</p>]]></description>
+            <link>undefinedservicio-excepcional-resultados-exepcionales/index.html</link>
+            <guid isPermaLink="false">3814ff3c-9390-4e88-b72e-0d33ccf93ef4</guid>
+            <pubDate>Fri, 24 Jun 2016 05:55:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
