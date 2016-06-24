@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Marco's Marketing]]></title>
         <description><![CDATA[Marco's Marketing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marco-s-marketing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 05:55:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 24 Jun 2016 06:00:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marco-s-marketing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38e0dd1c-64c4-455e-9ce7-5bb9724b118d.jpg">]]></description>
+            <link>https://thegrid.ai/marco-s-marketing/c53bd94f-36ba-41fc-af3a-c91e1a4f32dc/index.html</link>
+            <guid isPermaLink="false">c53bd94f-36ba-41fc-af3a-c91e1a4f32dc</guid>
+            <pubDate>Fri, 24 Jun 2016 05:59:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Servicio excepcional. Resultados exepcionales</p>]]></description>
-            <link>undefinedservicio-excepcional-resultados-exepcionales/index.html</link>
+            <link>https://thegrid.ai/marco-s-marketing/servicio-excepcional-resultados-exepcionales/index.html</link>
             <guid isPermaLink="false">3814ff3c-9390-4e88-b72e-0d33ccf93ef4</guid>
             <pubDate>Fri, 24 Jun 2016 05:55:47 GMT</pubDate>
         </item>
